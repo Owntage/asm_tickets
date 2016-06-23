@@ -73,4 +73,4 @@
 
 Это важно, если делаются какие-то бенчмарки. 
 
-
+[<<](https://github.com/Owntage/asm_tickets/blob/master/ticket2.md) [>>](https://github.com/Owntage/asm_tickets/blob/master/ticket5.md)

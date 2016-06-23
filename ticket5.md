@@ -74,3 +74,4 @@ popcount - считает число битов (где считает? ) и з�
 
 Количество трюков, скажем, с false dependency на редких коммандах просто зашкаливает. 
 
+[<<](https://github.com/Owntage/asm_tickets/blob/master/ticket4.md) [>>](https://github.com/Owntage/asm_tickets/blob/master/ticket6.md)
